@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		{65EC191D-97C8-44A8-94A2-23B4B37BAF46} = s 'Glmfcn'
+		'Glmfcn.EXE'
+		{
+			val AppID = s {65EC191D-97C8-44A8-94A2-23B4B37BAF46}
+		}
+	}
+}

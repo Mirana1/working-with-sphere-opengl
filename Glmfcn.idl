@@ -1,0 +1,19 @@
+
+	// Glmfcn.idl : IDL source for Glmfcn.exe
+//
+// This file will be processed by the MIDL tool to
+// produce the type library (Glmfcn.tlb) and marshalling code.
+import "oaidl.idl";
+import "ocidl.idl";
+[
+	uuid(39519C5D-1D26-429C-845B-F05285077960),
+	version(1.0),
+	helpstring("Glmfcn 1.0 Type Library")
+]
+library GlmfcnLib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+};
+
+	

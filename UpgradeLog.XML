@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Glmfcn">
+</Property><Property Name="Solution File" Value="F:\Teaching\Lekcii\OpenGL\Gl_mfc-cube\Glmfcn.sln">
+</Property><Property Name="User Options File" Value="F:\Teaching\Lekcii\OpenGL\Gl_mfc-cube\Glmfcn.suo">
+</Property><Property Name="Date" Value="04 ноември 2013">
+</Property><Property Name="Time" Value="12:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Glmfcn.sln" Description="File successfully backed up as F:\Teaching\Lekcii\OpenGL\Gl_mfc-cube\Glmfcn.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Glmfcn.suo" Description="File successfully backed up as F:\Teaching\Lekcii\OpenGL\Gl_mfc-cube\Glmfcn.suo.old">
+</Event><Event ErrorLevel="0" Project="Glmfcn" Source="Glmfcn.vcproj" Description="Converting project file 'F:\Teaching\Lekcii\OpenGL\Gl_mfc-cube\Glmfcn.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Glmfcn" Source="Glmfcn.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Glmfcn" Source="Glmfcn.vcproj" Description="MSB8012: $(TargetPath) ('F:\Teaching\Lekcii\OpenGL\Gl_mfc-cube\.\Release\Glmfcn.exe') does not match the Linker's OutputFile property value '.\Release/Glmfcn.exe' ('F:\Teaching\Lekcii\OpenGL\Gl_mfc-cube\Release/Glmfcn.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Glmfcn" Source="Glmfcn.vcproj" Description="MSB8012: $(TargetPath) ('F:\Teaching\Lekcii\OpenGL\Gl_mfc-cube\.\Debug\Glmfcn.exe') does not match the Linker's OutputFile property value '.\Debug/Glmfcn.exe' ('F:\Teaching\Lekcii\OpenGL\Gl_mfc-cube\Debug/Glmfcn.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Glmfcn" Source="Glmfcn.vcproj" Description="Done converting to new project file 'F:\Teaching\Lekcii\OpenGL\Gl_mfc-cube\Glmfcn.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Glmfcn" Source="Glmfcn.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Glmfcn.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Glmfcn.sln" Description="Converted">
+</Event></UpgradeLog>

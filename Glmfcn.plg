@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Glmfcn - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\tv\LOCALS~1\Temp\RSPD9.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Glmfcn.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"N:\Teaching\CompGr\Gl_mfcn\GlmfcnView.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\tv\LOCALS~1\Temp\RSPD9.tmp" 
+Creating temporary file "C:\DOCUME~1\tv\LOCALS~1\Temp\RSPDA.tmp" with contents
+[
+opengl32.lib glu32.lib glaux.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Glmfcn.pdb" /debug /machine:I386 /out:"Debug/Glmfcn.exe" /pdbtype:sept 
+.\Debug\Glmfcn.obj
+.\Debug\GlmfcnDoc.obj
+.\Debug\GlmfcnView.obj
+.\Debug\MainFrm.obj
+.\Debug\StdAfx.obj
+.\Debug\Glmfcn.res
+]
+Creating command line "link.exe @C:\DOCUME~1\tv\LOCALS~1\Temp\RSPDA.tmp"
+<h3>Output Window</h3>
+Compiling...
+GlmfcnView.cpp
+N:\Teaching\CompGr\Gl_mfcn\GlmfcnView.cpp(229) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+N:\Teaching\CompGr\Gl_mfcn\GlmfcnView.cpp(229) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+N:\Teaching\CompGr\Gl_mfcn\GlmfcnView.cpp(229) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+N:\Teaching\CompGr\Gl_mfcn\GlmfcnView.cpp(334) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+N:\Teaching\CompGr\Gl_mfcn\GlmfcnView.cpp(335) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+Glmfcn.exe - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>
